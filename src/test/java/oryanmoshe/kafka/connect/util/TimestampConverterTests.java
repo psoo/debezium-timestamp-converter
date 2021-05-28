@@ -458,7 +458,7 @@ public class TimestampConverterTests {
 
             @Override
             public String name() {
-                return null;
+                return "dateCol";
             }
 
             @Override
@@ -518,7 +518,7 @@ public class TimestampConverterTests {
 
             @Override
             public String name() {
-                return null;
+                return "timeCol";
             }
 
             @Override
@@ -578,7 +578,7 @@ public class TimestampConverterTests {
 
             @Override
             public String name() {
-                return null;
+                return "timetzCol";
             }
 
             @Override
@@ -638,7 +638,7 @@ public class TimestampConverterTests {
 
             @Override
             public String name() {
-                return null;
+                return "datetimeCol";
             }
 
             @Override
@@ -698,7 +698,7 @@ public class TimestampConverterTests {
 
             @Override
             public String name() {
-                return null;
+                return "datetime2Col";
             }
 
             @Override
@@ -758,7 +758,7 @@ public class TimestampConverterTests {
 
             @Override
             public String name() {
-                return null;
+                return "timestampCol";
             }
 
             @Override
@@ -818,7 +818,7 @@ public class TimestampConverterTests {
 
             @Override
             public String name() {
-                return null;
+                return "timestamptzCol";
             }
 
             @Override
